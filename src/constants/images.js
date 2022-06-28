@@ -1,3 +1,4 @@
+import aws from '../assets/aws.png';
 import email from '../assets/email.png';
 import mobile from '../assets/mobile.png';
 import api from '../assets/api.png';
@@ -17,6 +18,7 @@ import redux from '../assets/redux.png';
 import sass from '../assets/sass.png';
 import typescript from '../assets/typescript.png';
 import vue from '../assets/vue.png';
+import web3 from '../assets/web3.jpeg';
 
 import about01 from '../assets/about01.png';
 import about02 from '../assets/about02.png';
@@ -36,6 +38,7 @@ import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 
 export default {
+  aws,
   email,
   mobile,
   api,
@@ -55,6 +58,7 @@ export default {
   sass,
   typescript,
   vue,
+  web3,
   about01,
   about02,
   about03,
