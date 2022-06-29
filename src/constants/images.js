@@ -1,4 +1,6 @@
+import ansible from '../assets/ansible.png';
 import aws from '../assets/aws.png';
+import docker from '../assets/docker.webp';
 import email from '../assets/email.png';
 import mobile from '../assets/mobile.png';
 import api from '../assets/api.png';
@@ -38,7 +40,9 @@ import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 
 export default {
+  ansible,
   aws,
+  docker,
   email,
   mobile,
   api,

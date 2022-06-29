@@ -132,6 +132,16 @@
         height: 70px;
     }
 
+    div:nth-child(5) {
+        width: 70px;
+        height: 70px;
+    }
+
+    div:nth-child(6) {
+        width: 70px;
+        height: 70px;
+    }
+
     @media screen and (min-width: 2000px) {
         div:nth-child(1) {
             width: 400px;
